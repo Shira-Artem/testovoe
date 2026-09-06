@@ -1,0 +1,14 @@
+.nuxt
+.output
+node_modules
+.tmp
+coverage
+.idea
+.vscode
+.env
+.env.*
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
